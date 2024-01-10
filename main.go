@@ -42,8 +42,8 @@ func main3() {
 	// /
 	// %
 
-	a := 10
-	b := 31
+	a := 11
+	b := 32
 
 	result := a + b
 	fmt.Println(result)
